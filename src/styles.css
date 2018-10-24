@@ -1,1 +1,43 @@
 /* You can add global styles to this file, and also import other style files */
+body, html {
+  background: linear-gradient(aquamarine, springgreen, mediumaquamarine);
+  height: 100%;
+}
+
+.container {
+  margin: 0 auto;
+  font-family: arial rounded MT bold;
+  background: linear-gradient(hotpink, gold, tomato);
+  color: white;
+}
+
+.card {
+  background-color: fuchsia;
+  color: lime;
+  margin-bottom: 1rem;
+  border-radius: 15%;
+}
+
+h1 {
+  background: -webkit-linear-gradient(90deg, skyblue, skyblue, lime);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  border: 0.5px solid white;
+  border-radius: 88px;
+  box-shadow: -8px 15px 0 purple;
+  padding: inherit;
+}
+
+footer {
+  font-family: cursive;
+  font-style: italic;
+  text-align: center;
+  text-decoration: line-through underline;
+  color: yellow;
+  text-shadow: 1px 1px 1px red;
+}
+
+footer:hover {
+  font-size: 4rem;
+  text-shadow: 4px 4px 4px blue;
+}

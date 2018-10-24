@@ -1,0 +1,16 @@
+<div class="card" *ngFor= "let campaign of campaigns | async" (click)="goToCampaignDetail(campaign)">
+  <div class="card-body">
+    <h1 class="card-title">{{campaign.campaignName}}</h1>
+    <div class="card-text">
+      <h4>{{campaign.overview}}</h4>
+      <h5>by {{campaign.creatorName}}</h5>
+      <hr>
+      <p>${{campaign.pledgedFunds}} of ${{campaign.goal}} pledged</p>
+      <p>{{(campaign.pledgedFunds / campaign.goal) * 100}}% funded</p>
+      <p>{{campaign.daysToGo}} days to go</p>
+    </div>
+    <button class="btn btn-primary">Go Fund Yourself!</button>
+  </div>
+</div>
+
+<h4>this is the archive</h4>

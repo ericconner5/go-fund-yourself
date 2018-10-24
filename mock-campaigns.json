@@ -1,0 +1,22 @@
+{ "campaigns": [{
+    "campaignName": "Help Piper achieve his dream job getting food from a truck.",
+    "creatorName": "Piper VonCleef",
+    "overview": "Piper has no money for food trucks, get this boy your money so he can do some burritos solid.",
+    "goal": 450.00,
+    "pledgedFunds": 68.45,
+    "creatorStory": "Piper is an idiot from Nebraska. He currently lives with his friends in a house. His hair is brown and his belly is a rumblin'. He can also make crowdfunding campaigns and chainsaw bears.",
+    "backers": 4845921,
+    "campaignStory": "The Story Of Piper's Campaign: One day Piper was not eating a burrito and his buddies were like dude-sire, you gotta find a way to get burritos but you have no talents, job or inheritence. Why don't you start a crowdfunding campaign to let other people help you achieve your dream job: Eating burritos from trucks.",
+    "daysToGo": 4
+  }, {
+    "campaignName": "Help Donny achieve his dream job getting trash from a truck.",
+    "creatorName": "Mr. Donny: Panda de la Basura",
+    "overview": "Donny has no money for garbage trucks, get this boy your money so he can do some trash solid.",
+    "goal": 4.00,
+    "pledgedFunds": 597.00,
+    "creatorStory": "Donny is an raccoon from Wyoming. He currently lives with his friends in the walls of a house. His hair is brown, grey, black and rusty. His belly is a rumblin'. He can also make crowdfunding campaigns and hissing noises and car screams.",
+    "backers": 2,
+    "campaignStory": "The Story Of Donny's Campaign: One day Donny was not eating a trash and his buddies were like duder-sire, you gotta find a way to get garbage-stuff but you have no talents, job or inheritence. Why don't you start a crowdfunding campaign to let other people help you achieve your dream job: Eating actual trash from trucks.",
+    "daysToGo": 22
+  }]
+}

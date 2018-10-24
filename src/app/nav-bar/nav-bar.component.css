@@ -1,0 +1,28 @@
+.nav-a-bar {
+  height: 3rem;
+  background: linear-gradient(to right, teal, bisque);
+  border-radius: 3rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  color: deeppink;
+
+  text-shadow: 1px 1px 3px lightpink;
+}
+
+.not-blue {
+  color: deeppink;
+}
+
+
+.nav-a-bar a:hover {
+  cursor: pointer;
+}
+
+.night-mode {
+  background: yellow;
+  color: orange;
+  text-shadow: 1px 1px 3px red;
+  box-shadow: -14px 14px 0 gold;
+}
